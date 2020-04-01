@@ -2,8 +2,7 @@ function happyHolidays() {
   return "Happy holidays!"
   }
 function happyHolidaysTo(name) {
-  
-    if (name === "you") {
+  if (name === "you") {
     return 'Happy holidays, you!' 
     }
     if (name === "everyone") {
